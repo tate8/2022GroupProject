@@ -3,3 +3,7 @@
 ## Description
 
 ## Contributor(s)
+* Tate Larkin
+* Mike Kano
+* Max Sutton
+* J
