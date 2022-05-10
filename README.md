@@ -1,6 +1,7 @@
 # 2022 Group Project
 
 ## Description
+A Password Manager application which securely stores user data (such as usernames and passwords) using authentication techniques such as hashing and salting.
 
 ## Contributor(s)
 * Tate Larkin
