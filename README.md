@@ -1,7 +1,6 @@
 # 2022 Group Project
 
 ## Description
-A Password Manager application which securely stores user data (such as site names and their respective passwords) using authentication techniques such as hashing, encrypting and decrypting.
 
 ## Contributor(s)
 * Tate Larkin
@@ -15,4 +14,4 @@ A Password Manager application which securely stores user data (such as site nam
 
 ## Class Diagram
 
-![ClassDiagramUpdated](https://user-images.githubusercontent.com/70344865/170526039-f948eb13-e7d0-4fbb-87e8-bc7ad6976091.png)
+![GPClassDiagram drawio](https://user-images.githubusercontent.com/70344865/166955422-110143ed-d2da-4721-a63d-7e966f62eb77.png)
